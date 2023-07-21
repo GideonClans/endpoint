@@ -1,0 +1,7 @@
+0::LegionKnights
+1::Serenity
+2::Mythic
+3::Revol
+4::Eternal
+5::Vaping
+6::Olympus
